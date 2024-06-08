@@ -1,0 +1,55 @@
+header {
+  margin-bottom: 50px;
+}
+h1 {
+  font-size: 40px;
+  margin: 0px;
+}
+#description {
+    margin: 8px;
+  }
+
+a {
+  background-color: rgb(212, 42, 90);
+  border-radius: 10px;
+  color: white;
+  padding: 10px 40px;
+  font-size: 20px;
+  font-family: "fire Sans", sans-serif;
+  margin: 0px;
+  border: 1px solid rgb(167, 1, 78);
+  display: inline-block;
+}
+
+a:hover {
+  background-color: rgb(228, 42, 94);
+}
+
+ol {
+  list-style: none;
+  text-align: center;
+  width: 450px;
+  margin: 20px auto;
+  padding: 0;
+}
+
+li {
+  background-color: rgb(233, 128, 128);
+  border-radius: 7px;
+  padding: 10px 20px;
+  margin: 20px ;
+  box-shadow: 2px 2px 4px grey;
+  
+}
+
+h2 {
+  font-family: "oswald", sans-serif;
+}
+
+li p {
+  font-family: "fira sans", sans-serif;
+}
+
+.important-tasks {
+  background-color: rgb(250, 117, 117);
+}
